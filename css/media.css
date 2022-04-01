@@ -1,0 +1,2807 @@
+@media screen and (max-width: 1601px) {
+    .header__slider__wrapper {
+      left: 155px;
+    }
+  
+    .header__slider__wrapper .slick-prev.slick-arrow.slick-disabled {
+      left: -140px;
+    }
+  
+    .header__slider__wrapper .slick-prev.slick-arrow {
+      left: -140px;
+    }
+  
+    .header__slider__wrapper .slick-next.slick-arrow.slick-disabled {
+      left: -90px;
+    }
+  
+    .header__slider__wrapper .slick-next.slick-arrow {
+      left: -90px;
+    }
+  
+    .slogan__text {
+      margin-left: 75px;
+    }
+  
+    .container__pageTour_slogan {
+      left: -11px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav {
+      max-width: 785px;
+      left: 644px;
+    }
+  
+    .bookingTour .excursionsCard__img_icons {
+      width: 23%;
+    }
+  
+    .habitationTour__imgWrap {
+      left: 73px;
+    }
+  
+    .favoriteExcursion__card .excursionsCard__img_icons {
+      width: 290px;
+    }
+  
+    #ui-datepicker-div {
+      right: 130px;
+    }
+  }
+  @media screen and (max-width: 1441px) {
+    .container__sliderHeader {
+      max-width: 970px;
+      margin: 0 auto;
+    }
+  
+    .header__slider__wrapper {
+      left: 235px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav {
+      max-width: 720px;
+    }
+  }
+  @media screen and (max-width: 1281px) {
+    .container {
+      padding: 0 3px;
+    }
+  
+    .headerBg__wrapper .slick-dots {
+      bottom: 230px;
+      right: 200px;
+    }
+  
+    .header-containt {
+      padding: 10px;
+    }
+  
+    .header__slider {
+      left: 0;
+      position: inherit;
+    }
+  
+    .header__slider__wrapper {
+      left: 155px;
+    }
+  
+    .contact__nav_elements {
+      padding-left: 25px;
+    }
+  
+    .nav__main_link {
+      padding: 11px;
+      font-size: 13px;
+    }
+  
+    .navUP__left_line {
+      margin-right: 25px;
+      margin-left: 33px;
+    }
+  
+    .popular__excursions {
+      margin: 0px 0 60px 0;
+    }
+  
+    .popular__excursions_cards {
+      grid-gap: 35px 20px;
+    }
+  
+    .excursionsWithUs__wrapper {
+      padding: 10px;
+    }
+  
+    .certificates__card_img {
+      max-width: 315px;
+    }
+  
+    .whatSay {
+      padding: 10px;
+      margin-bottom: 30px;
+    }
+  
+    .whatSay__text_el {
+      max-width: 600px;
+    }
+  
+    .booking__wrapper .booking__card {
+      margin: 3px 5px;
+    }
+  
+    .booking__cards {
+      grid-gap: 45px 0px;
+    }
+  
+    .habitationTour__wrapper {
+      margin-bottom: 80px;
+    }
+  
+    .habitationTour__imgWrap {
+      left: 9px;
+    }
+  
+    .habitation__img {
+      width: 550px;
+    }
+  
+    .slogan__text {
+      margin-left: 12px;
+    }
+  
+    .booking__card .excursions__card_img {
+      width: 295px;
+    }
+  
+    .favoriteExcursion__card .excursions__card_img {
+      width: 295px;
+    }
+  
+    .container__pageTour_slogan {
+      left: -60px;
+    }
+  
+    .pageTour__slogan .pageTour__slogan_text {
+      margin-right: 0;
+    }
+  
+    .slogan__item_line {
+      margin-right: 10px;
+      margin-left: 10px;
+    }
+  
+    .footer {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+  
+    .excursionsWithUs__img img {
+      width: 500px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav {
+      max-width: 626px;
+    }
+  
+    .certificatesPage__sliderWrapper-for {
+      top: 95px;
+    }
+  
+    .pageTour__mainInfoBlock {
+      padding: 0 7px;
+    }
+  
+    .whatSay__left_rating {
+      margin-top: 6px;
+      margin-bottom: 4px;
+    }
+  }
+  @media screen and (max-width: 1025px) {
+    .headerBg__wrapper .slick-dots {
+      bottom: 100px;
+    }
+  
+    .contact__nav_elements {
+      padding-left: 20px;
+    }
+  
+    .navUP__left_line {
+      margin-right: 30px;
+      margin-left: 40px;
+    }
+  
+    .nav__main_link {
+      padding: 12px;
+      font-size: 12px;
+    }
+  
+    .btn__navUp {
+      padding: 15px;
+    }
+  
+    .header__slider {
+      position: relative;
+      bottom: 165px;
+      left: 0;
+    }
+  
+    .title__scroll_line {
+      width: 246px;
+      top: 192px;
+      left: -111px;
+    }
+  
+    .title__scroll_arrow {
+      top: 335px;
+    }
+  
+    .container__sliderHeader {
+      max-width: 722px;
+    }
+  
+    .header__slider__wrapper {
+      left: 151px;
+    }
+  
+    .header__slider__wrapper.slick-initialized.slick-slider {
+      bottom: -105px;
+    }
+  
+    .header__slider__wrapper .slick-prev.slick-arrow {
+      right: 117%;
+    }
+  
+    .popular__excursions_cards {
+      grid-template-columns: repeat(3, 3fr);
+      grid-gap: 30px 20px;
+      margin-left: 35px;
+    }
+  
+    .popular__exursionsCard-hovered.popular__exursionsCard-hovered_buttom {
+      top: 543px;
+    }
+  
+    .excursionsWithUs__textWrapper {
+      max-width: 450px;
+    }
+  
+    .excursionsWithUs__img {
+      width: 450px;
+    }
+  
+    .certificates {
+      margin-bottom: 220px;
+    }
+  
+    .certificates__card_img {
+      max-width: 240px;
+    }
+  
+    .whatSay__slider_wrapper.slick-initialized .slick-slide {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      height: 175px;
+    }
+  
+    .whatSay__slider_wrapper .slick-prev.slick-arrow.slick-disabled {
+      top: 250px;
+    }
+  
+    .whatSay__slider_wrapper .slick-prev.slick-arrow {
+      top: 250px;
+    }
+  
+    .whatSay__slider_wrapper .slick-next.slick-arrow.slick-disabled {
+      top: 250px;
+    }
+  
+    .whatSay__slider_wrapper .slick-next.slick-arrow.slick-arrow {
+      top: 250px;
+    }
+  
+    .whatSay__text_el {
+      max-width: 465px;
+    }
+  
+    .whatSay__el_left {
+      padding-right: 0;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      margin-bottom: 12px;
+    }
+  
+    .whatSay__left_img {
+      min-width: 53px;
+      min-height: 53px;
+      margin-right: 14px;
+    }
+  
+    .whatSay__right_icon svg {
+      width: 18px;
+      height: 18px;
+    }
+  
+    .whatSay__right_text {
+      margin-top: 3px;
+      font-size: 12px;
+      line-height: 19px;
+    }
+  
+    .footer__img {
+      padding-right: 70px;
+    }
+  
+    .modal-call__wrapper {
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+  
+    .modal__wrapper {
+      right: 10px;
+    }
+  
+    .modal-registration__wrapper {
+      -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+  
+    .aboutCompany__cardEls {
+      grid-gap: 15px;
+      width: 537px;
+    }
+  
+    .aboutCompany__img img {
+      width: 420px;
+    }
+  
+    .groupTour__imgWrap {
+      margin-left: 15px;
+    }
+    .groupTour__imgWrap img {
+      width: 420px;
+    }
+  
+    .individualTour__imgWrap img {
+      width: 450px;
+    }
+  
+    .habitation__img {
+      width: 460px;
+    }
+  
+    .agents__img img {
+      width: 420px;
+    }
+  
+    .agent__text {
+      max-width: 510px;
+    }
+  
+    .formAgentImg__person {
+      left: -36px;
+    }
+  
+    .formPages__form {
+      max-width: 575px;
+    }
+  
+    .formPages__items {
+      grid-gap: 10px;
+    }
+  
+    .certificatesPage__img {
+      margin-left: 12px;
+    }
+    .certificatesPage__img img {
+      width: 450px;
+    }
+  
+    .contact__map {
+      width: auto;
+    }
+  
+    .contact__map_img {
+      width: 450px;
+    }
+  
+    .contactForm__wrapper {
+      max-width: 950px;
+    }
+  
+    .orderTour__nextTour_block {
+      width: 250px;
+    }
+  
+    .order__btn {
+      margin-left: 20px;
+      margin-right: 10px;
+    }
+  
+    .orderTour__item_line {
+      margin: 0 12px;
+    }
+  
+    .pageTour__dayExcursiond-wrapper {
+      max-width: 510px;
+    }
+  
+    .pageTour__rightInfo_wrapper {
+      min-width: 385px;
+    }
+  
+    .pageTour__rightInfo_wrapper {
+      max-width: 390px;
+    }
+  
+    .cardNameTour__img img {
+      width: 390px;
+    }
+  
+    .booking__cards {
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+  
+    .booking__card .excursionsCard__img_icons {
+      width: 290px;
+    }
+  
+    .reviewsCard__item {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .certificatesPage__sliderWrapper-for {
+      top: 57px;
+    }
+    .certificatesPage__sliderWrapper-for img {
+      width: 355px;
+    }
+  
+    .certificare__slider_text {
+      max-width: 385px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav {
+      max-width: 469px;
+      left: 545px;
+      top: -415px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav .slick-prev.slick-arrow.slick-disabled {
+      left: -175px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav .slick-prev.slick-arrow {
+      left: -175px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav .slick-next.slick-arrow {
+      left: -116px;
+    }
+  
+    .certificatesPage__sliderWrapper-nav .slick-next.slick-arrow.slick-disabled {
+      left: -116px;
+    }
+  
+    .booking__cards .popular__excursions_cards {
+      margin-left: 0;
+    }
+  
+    .slogan__wrapper {
+      top: -130px;
+    }
+  
+    .pageTour__slogan {
+      width: 745px;
+    }
+  
+    .container__pageTour_slogan {
+      left: -80px;
+    }
+  
+    .whatSay__left_rating {
+      margin-top: 0px;
+      margin-bottom: 0px;
+    }
+  }
+  @media screen and (max-width: 991px) {
+    .headerBg .headerBG__img {
+      height: 100%;
+    }
+  
+    .header__slider__wrapper.slick-initialized.slick-slider {
+      bottom: -92px;
+    }
+  
+    .navUP__left_line {
+      margin-right: 30px;
+      margin-left: 40px;
+    }
+  
+    .nav__main_link {
+      padding: 12px;
+    }
+  
+    .header__slider {
+      left: -17px;
+    }
+  
+    .popular__excursions {
+      margin: 0px 0px 46px 0px;
+    }
+  
+    .groupTours .popular__excursions {
+      margin: 0px 0px 46px 0px;
+    }
+  
+    .individualTour .popular__excursions {
+      margin: 0px 0px 46px 0px;
+    }
+  
+    .habitationTour .popular__excursions {
+      margin: 0px 0px 46px 0px;
+    }
+  
+    .excursionsWithUs__title {
+      font-size: 32px;
+    }
+  
+    .excursionsWithUs__text {
+      max-width: 413px;
+    }
+  
+    .popular__excursions_cards {
+      margin-right: 0px;
+      grid-gap: 15px 10px;
+    }
+  
+    .excursionsWithUs__img img {
+      width: 480px;
+    }
+  
+    .whatSay {
+      margin-bottom: 40px;
+    }
+  
+    .whatSay__card {
+      padding: 18px 10px 56px 18px;
+    }
+  
+    .whatSay__slider_wrapper .slick-prev.slick-arrow {
+      top: 250px;
+    }
+  
+    .whatSay__slider_wrapper .slick-next.slick-arrow {
+      top: 250px;
+    }
+  
+    .whatSay__text_el {
+      max-width: 450px;
+    }
+  }
+  @media screen and (max-width: 821px) {
+    .img-wrapper-mobile {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+  
+    .img-wrapper-desktop {
+      display: none;
+    }
+  
+    .navUp {
+      display: none;
+    }
+  
+    .nav__main {
+      display: none;
+    }
+  
+    .title__mainHeader_scroll {
+      display: none;
+    }
+  
+    .nav__mobile {
+      display: block;
+    }
+  
+    .headerSecond__up-mobileWrapper {
+      background-color: #00993e;
+      padding: 7px 0;
+    }
+  
+    .headerSecond__wrapper .burger__headerDown {
+      margin-top: 0;
+    }
+    .headerSecond__wrapper .agent__link {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+    .headerSecond__wrapper .agent__link_item {
+      color: #012510;
+      margin-right: 5px;
+    }
+    .headerSecond__wrapper .agent__link_item::after {
+      content: none;
+    }
+  
+    .headerSecond__down-mobileWrapper {
+      background-color: #F2FAF5;
+    }
+  
+    .title__mainHeader_text {
+      margin-left: 0;
+    }
+  
+    .title__main_text {
+      margin-top: 7px;
+      margin-bottom: 32px;
+    }
+  
+    .headerBg__wrapper .slick-dots {
+      bottom: 114px;
+    }
+  
+    .header__slider__wrapper.slick-initialized.slick-slider {
+      bottom: -65px;
+    }
+  
+    .burger__headerUp {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .burgeMenu__iconWrapper {
+      cursor: pointer;
+    }
+  
+    .burger__headerDown {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      margin-top: 7px;
+      -webkit-border-radius: 3px;
+      border-radius: 3px;
+      background-color: rgba(255, 255, 255, 0.15);
+      padding: 7px;
+    }
+  
+    .burgerMenu__wrapper {
+      position: absolute;
+      width: 100%;
+      height: 100vh;
+      top: 0;
+      left: 0;
+      z-index: 13;
+      display: none;
+      background-color: #00993e;
+      padding: 10px 0px;
+    }
+  
+    .burgerMenu__up {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      padding: 0;
+    }
+  
+    .closeIcon_burgerMenu {
+      position: inherit;
+      padding-left: 10px;
+    }
+  
+    .burgerMenu__down {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+      justify-content: space-between;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      background-color: #f2faf5;
+      padding: 10px;
+      margin-top: 10px;
+    }
+  
+    .agentLink__burgerMenu_item {
+      color: #012510;
+    }
+    .agentLink__burgerMenu_item.agentLink__burgerMenu_item::after {
+      content: url("data:image/svg+xml;charset=UTF-8,%3csvg width='6' height='13' viewBox='0 0 6 13' xmlns='http://www.w3.org/2000/svg'%3e%3cpath d='M0.881675 12.4049C0.686965 12.4053 0.498268 12.3375 0.348341 12.2132C0.263959 12.1433 0.194208 12.0574 0.143081 11.9604C0.0919547 11.8634 0.0604577 11.7574 0.0503945 11.6482C0.0403313 11.5391 0.0518996 11.429 0.0844367 11.3243C0.116974 11.2197 0.16984 11.1224 0.240008 11.0382L3.97334 6.57157L0.373342 2.09657C0.30412 2.01133 0.252427 1.91325 0.221234 1.80796C0.190041 1.70268 0.179963 1.59227 0.191579 1.48308C0.203195 1.37389 0.236275 1.26807 0.28892 1.17171C0.341565 1.07534 0.412736 0.990334 0.498342 0.921565C0.584563 0.845701 0.685535 0.788478 0.79492 0.753487C0.904305 0.718497 1.01974 0.706493 1.13399 0.718231C1.24823 0.729968 1.35882 0.765193 1.4588 0.821695C1.55879 0.878196 1.64601 0.954754 1.71501 1.04657L5.74001 6.04657C5.86258 6.19568 5.92958 6.38271 5.92958 6.57573C5.92958 6.76875 5.86258 6.95579 5.74001 7.1049L1.57334 12.1049C1.48974 12.2057 1.38355 12.2855 1.26337 12.3376C1.1432 12.3897 1.01243 12.4128 0.881675 12.4049Z' fill='currentColor'/%3e%3c/svg%3e ");
+      margin-left: 10px;
+      vertical-align: sub;
+      fill: #012510;
+    }
+  
+    .navMain__burgerMenu {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .contactNavElement__burgerMenu {
+      margin-bottom: 30px;
+      padding-left: 5px;
+      padding-right: 0;
+    }
+    .contactNavElement__burgerMenu .contactNav__burgerMenu {
+      text-align: start;
+      margin: 10px 0;
+    }
+  
+    .contactNav__burgerMenu_btn {
+      margin-left: 10px;
+    }
+  
+    .header__slider {
+      left: -145px;
+      top: -135px;
+    }
+  
+    .popular__excursions_cards {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      grid-template-columns: none;
+      margin-left: 0;
+      max-width: 100%;
+      left: 0;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+    .popular__excursions_cards .popular__exursionsCard-hovered {
+      display: none;
+      visibility: hidden;
+    }
+    .popular__excursions_cards .popular__excursions_card.slick-slide {
+      margin-right: 10px;
+    }
+  
+    .excursionsWithUs__wrapper {
+      grid-template-columns: 1fr;
+    }
+  
+    .excursionsCard__img_icons {
+      width: 290px;
+    }
+  
+    .excursionsWithUs__img {
+      display: none;
+    }
+  
+    .excursionsWithUs__img-mobile {
+      display: block;
+      margin: 10px 0;
+    }
+  
+    .excursionsWithUs__text {
+      max-width: 597px;
+    }
+  
+    .certificates__card_img {
+      max-width: 200px;
+    }
+  
+    .whatSay__text_el {
+      max-width: 360px;
+    }
+  
+    .footer__wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .footer__link_wrapper {
+      margin-top: 35px;
+    }
+  
+    .modal__wrapper {
+      top: 100px;
+    }
+  
+    .modal-registration__wrapper {
+      top: 50%;
+      width: 790px;
+    }
+  
+    .aboutCompany__text {
+      width: 96%;
+    }
+  
+    .aboutCompany__cardEls {
+      width: 100%;
+    }
+  
+    .personData__accordionWrapper {
+      padding: 0 10px;
+    }
+  
+    .typicalPage__img img {
+      width: 100%;
+    }
+  
+    .typicalPage__autorWrap {
+      padding: 0 10px;
+    }
+  
+    .typicalPage__textBold {
+      padding: 0 10px;
+    }
+  
+    .typicalPage__primWrap {
+      margin-left: 7px;
+      margin-right: 7px;
+    }
+  
+    .typicalPage__primLine {
+      top: -35px;
+      left: -5px;
+    }
+  
+    .tour__btn {
+      width: 216px;
+      display: block;
+      margin: 0 auto;
+    }
+  
+    .tour__text {
+      max-width: 100%;
+    }
+  
+    .individualTour__info {
+      max-width: 100%;
+    }
+  
+    .groupTour__line {
+      max-width: 100%;
+    }
+  
+    .excursionsWithUs__text {
+      max-width: 100%;
+    }
+  
+    .header-containt {
+      padding: 10px 0;
+    }
+  
+    .agent__text {
+      max-width: 100%;
+    }
+  
+    .agents__wrapper {
+      margin-top: 40px;
+      margin-bottom: 30px;
+    }
+  
+    .slogan__wrapper {
+      position: inherit;
+      top: 0;
+      width: 100%;
+    }
+  
+    .formPages__wrap {
+      background: #fff;
+      height: 100%;
+      margin-top: 20px;
+      padding: 37px 35px 0 35px;
+    }
+  
+    .formPages__items {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .formAgentImg__person {
+      display: none;
+    }
+  
+    .fomrPage__subTitle {
+      text-align: center;
+    }
+  
+    .certificatesPage__text {
+      max-width: 100%;
+    }
+  
+    .certificatesPage__blockGreen {
+      display: none;
+    }
+  
+    .certificatesPage__sliderWrapper-for {
+      display: none;
+    }
+  
+    .certificatesPage__sliderWrapper-nav {
+      display: none;
+    }
+  
+    .certificatesPage__wrapper {
+      margin-bottom: 50px;
+    }
+  
+    .contacts__wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .contactForm__wrapper {
+      margin-top: 50px;
+      max-width: 750px;
+    }
+  
+    .formImg__person {
+      right: 27px;
+    }
+  
+    .pageTour__mainInfoBlock {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .pageTour__dayExcursiond-wrapper {
+      max-width: 100%;
+    }
+  
+    .pageTour__dopInfoPrice {
+      padding: 0 7px;
+    }
+  
+    .pageTour__cardInfo {
+      padding: 0 7px;
+    }
+  
+    .pageTour__benefitsCard__wrapper {
+      margin-right: 7px;
+      margin-left: 7px;
+    }
+  
+    .favoriteExcursion__card .excursionsCard__img_icons {
+      width: 280px;
+    }
+  
+    .groupTour__wrapper {
+      margin-top: 50px;
+    }
+  
+    .individualTour__wrapper {
+      margin-top: 50px;
+    }
+  
+    .habitationTour__wrapper {
+      margin-top: 50px;
+    }
+  
+    .personData__wrapper {
+      margin-top: 50px;
+    }
+  
+    .personDataAccount__container {
+      margin-top: 50px;
+    }
+  
+    .passWrapper__title {
+      margin-bottom: 0;
+    }
+  
+    .personArea__title {
+      margin-top: 50px;
+    }
+  
+    .booking__title {
+      margin-top: 50px;
+    }
+  
+    .favoriteExcursion__title {
+      margin-top: 50px;
+    }
+  
+    .aboutCompany__wrapper {
+      margin-top: 50px;
+    }
+  
+    .typicalPage__tableWrap {
+      padding: 0 7px;
+    }
+  
+    .modal-call__wrapper.modal__wrapper {
+      top: 295px;
+    }
+  
+    .habitationIconHotels__els, .whatSay__text_el, .agent__text, .certificatesPage__text, .typicalPage__subTitle, .typicalPage__text, .habitationTour__text, .individualTour__text, .groupTour__text, .aboutCompany__text, .contact__el {
+      padding: 0 8px 0 10px;
+    }
+  }
+  @media screen and (min-width: 822px) {
+    .nav__mobile {
+      display: none;
+    }
+  
+    .excursionsWithUs__img-mobile {
+      display: none;
+    }
+  
+    .img-wrapper-mobile {
+      display: none;
+    }
+  
+    .img-wrapper-desktop {
+      display: block;
+    }
+  
+    .personAgentMobileImgWrapper {
+      display: none;
+    }
+  
+    .certificatesPage .certificates {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 780px) {
+    .header__slider {
+      top: -105px;
+    }
+  
+    .headerBg__wrapper .slick-dots {
+      bottom: 80px;
+    }
+  
+    .excursionsWithUs__textWrapper {
+      max-width: 100%;
+    }
+  
+    .certificates__card_img {
+      max-width: 180px;
+    }
+  
+    .radioFormPages__wrapper {
+      margin-bottom: 41px;
+    }
+  
+    .agentsAndPartners {
+      padding-bottom: 51px;
+    }
+  
+    .formPages__wrap {
+      margin-top: 51px;
+    }
+  
+    .personAreaText__noMobile {
+      display: none;
+    }
+  
+    .personArea__card {
+      height: 100%;
+      padding-bottom: 15px;
+    }
+  
+    .personArea__card-text {
+      line-height: 16px;
+    }
+  
+    .requisites__wrapper {
+      display: none;
+    }
+  
+    .formImg__person {
+      display: none;
+    }
+  
+    .contactForm__wrapper {
+      background: #fff;
+      height: 100%;
+      padding: 37px 15px 0 15px;
+    }
+  
+    .contacts__wrapper {
+      margin-top: 50px;
+    }
+  
+    .reviews__title {
+      margin-top: 50px;
+    }
+  
+    .pageTour__orderTour_block {
+      height: 387px;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      max-width: 300px;
+      bottom: -280px;
+    }
+  
+    .pageTour__dayExcursiond-wrapper {
+      margin-top: 150px;
+    }
+  
+    .orderTour__block_items {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .orderTour__nextTour_block {
+      top: -57px;
+      left: 35px;
+      width: 238px;
+      height: 134px;
+    }
+  
+    .orderTour__item svg {
+      width: 30px;
+      height: 30px;
+    }
+    .orderTour__item .orderTour__item_line {
+      display: none;
+    }
+  
+    .orederTour__line-mb {
+      border: 1px solid rgba(215, 218, 222, 0.6);
+      width: 70px;
+      margin: 10px 0;
+    }
+  
+    .orderTour__block_btn {
+      margin-top: 30px;
+    }
+  
+    .excursionsCard__block {
+      margin-bottom: 0;
+    }
+  }
+  @media screen and (min-width: 780px) {
+    .orederTour__line-mb {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 579px) {
+    .contactsPage .container {
+      padding: 0;
+    }
+  
+    .header-bg {
+      min-height: 700px;
+    }
+  
+    .headerBg .headerBG__img {
+      height: 100vh;
+    }
+  
+    .title__mainHeader_text {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .title__main_text {
+      text-align: center;
+    }
+  
+    .title__mainHeader_socials {
+      display: none;
+    }
+  
+    .headerBg__wrapper .slick-dots {
+      top: 514px;
+    }
+  
+    .header__slider {
+      top: -368px;
+    }
+  
+    .header__slider__wrapper.slick-initialized.slick-slider {
+      bottom: -290px;
+      left: 155px;
+    }
+  
+    .popular__excursions_cards {
+      grid-gap: 10px;
+      margin-left: 0px;
+    }
+  
+    .excursionsCard__img_icons {
+      width: 220px;
+    }
+  
+    .excursionsCard__img_icons-rating svg {
+      width: 12px;
+      height: 12px;
+    }
+  
+    .exursionsCard__img_icons-like svg {
+      width: 14px;
+      height: 14px;
+    }
+  
+    .excursions__card_img {
+      width: 100%;
+    }
+  
+    .excursions__card_title {
+      font-size: 12px;
+    }
+  
+    .excursionsCard__place_text {
+      font-size: 12px;
+    }
+  
+    .excursionsCard__place_icon svg {
+      width: 11px;
+      height: 11px;
+    }
+  
+    .excursionsCard__advantages_item-left {
+      font-size: 10px;
+    }
+  
+    .excursionsCard__advantages_item-right {
+      font-size: 10px;
+    }
+    .excursionsCard__advantages_item-right.excursionsCard__advantages_item-right::after svg {
+      width: 11px;
+      height: 11px;
+    }
+  
+    .excursionsWithUs__title {
+      font-size: 24px;
+      text-align: left;
+    }
+  
+    .excursionsWithUs__img-mobile {
+      max-width: 430px;
+    }
+  
+    .excursionsWithUs__wrapper {
+      text-align: center;
+    }
+  
+    .excursionsWithUs__textWrapper {
+      max-width: 100%;
+    }
+  
+    .excursionsWithUs__text {
+      font-size: 14px;
+      line-height: 22px;
+      text-align: left;
+    }
+  
+    .certificates__wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .certificates__title {
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+  
+    .certificates__items {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      grid-template-columns: none;
+      position: relative;
+      left: 10px;
+    }
+  
+    .whatSay__wrapper {
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+  
+    .whatSay__title {
+      text-align: center;
+      font-size: 24px;
+    }
+  
+    .whatSay__text {
+      text-align: center;
+    }
+  
+    .whatSay__text_wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .whatSay__text_el {
+      font-size: 14px;
+      line-height: 22px;
+      max-width: none;
+    }
+  
+    .whatSay__left_rating svg {
+      width: 10px;
+      height: 10px;
+    }
+  
+    .whatSay__slider_wrapper.slick-initialized .slick-slide {
+      margin: 0 4px;
+    }
+  
+    .slick-track .whatSay__card.slick-slide {
+      max-width: 100%;
+      width: 240px;
+    }
+  
+    .whatSay__el_link {
+      display: none;
+    }
+  
+    .whatSay__el_link-mobile {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      margin-top: 24px;
+    }
+  
+    .whatSay__text_wrapper {
+      margin-top: 40px;
+    }
+  
+    .whatSay__text_right {
+      margin-top: 15px;
+    }
+  
+    .footer__wrapper {
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .footer__link_wrapper {
+      grid-template-columns: 1fr 1fr;
+    }
+  
+    .footer__link_item.aboutUS-Mb {
+      display: none;
+    }
+  
+    .footer__btn.btn__navUp {
+      padding: 15px 37px;
+    }
+  
+    .footer__agreement_wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .footer__agreement_item {
+      margin-bottom: 10px;
+    }
+    .footer__agreement_item.agreemennt__item01 {
+      -webkit-box-ordinal-group: 2;
+      -webkit-order: 1;
+      -ms-flex-order: 1;
+      order: 1;
+    }
+    .footer__agreement_item.agreemennt__item02 {
+      -webkit-box-ordinal-group: 3;
+      -webkit-order: 2;
+      -ms-flex-order: 2;
+      order: 2;
+    }
+  
+    .input__modal_wrapper {
+      padding: 10px 7px;
+    }
+  
+    .modal__wrapper {
+      right: 0;
+      left: 0;
+      top: 45px;
+      margin: 0 auto;
+      width: 419px;
+      height: 298px;
+      padding: 20px 0px 29px 0px;
+    }
+  
+    .modal-registration__wrapper {
+      height: 85%;
+      width: 420px;
+      -webkit-transform: translate(-50%, 10%);
+      -ms-transform: translate(-50%, 10%);
+      transform: translate(-50%, 10%);
+    }
+  
+    .modal__title-registration {
+      margin-bottom: 0px;
+    }
+  
+    .modal__checkbox_wrap {
+      margin-right: 20px;
+    }
+  
+    .form__label {
+      font-size: 14px;
+      width: 277px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+    }
+  
+    .registration__btn_wrap {
+      grid-template-columns: none;
+      justify-items: inherit;
+    }
+  
+    .headings {
+      text-align: center;
+    }
+  
+    .popular__excursions_cards {
+      left: 25px;
+    }
+  
+    .img-wrapper-mobile img {
+      width: 520px;
+    }
+  
+    .accordion__title {
+      font-size: 14px;
+      margin-top: 15px;
+      margin-bottom: 10px;
+      line-height: 22px;
+    }
+  
+    .form-icon-calendar.form-icon-calendar::before {
+      right: 19px;
+      top: 20px;
+    }
+  
+    .personData__wrapper {
+      margin-top: 50px;
+    }
+  
+    .reviews__formWrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .reviews__right {
+      margin-left: 0px;
+    }
+  
+    .personArea__card.personArea__card:first-child {
+      margin-right: 15px;
+    }
+  
+    .typicalPage__blockWrap {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .typicalPage__blockImg {
+      -webkit-box-ordinal-group: 0;
+      -webkit-order: -1;
+      -ms-flex-order: -1;
+      order: -1;
+      margin-bottom: 20px;
+    }
+  
+    .breadcrumbList__link {
+      font-size: 12px;
+    }
+  
+    .formPages__form .formPages__title {
+      font-size: 18px;
+    }
+    .formPages__form .fomrPage__subTitle {
+      font-size: 12px;
+      line-height: 20px;
+    }
+    .formPages__form .form__inp {
+      width: 250px;
+    }
+    .formPages__form .modal__btn {
+      width: 270px;
+    }
+    .formPages__form .modal__form_checkbox.modal__form_checkbox-call {
+      width: 12px;
+      height: 12px;
+    }
+    .formPages__form .custom-radio [type=radio]:checked + .custom-radio__label, .formPages__form .custom-radio [type=radio]:not(:checked) + .custom-radio__label {
+      padding: 0px 0 0px 33px;
+    }
+  
+    .formPages__items {
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .slogan__text {
+      text-align: center;
+      margin-left: 0;
+      font-size: 16px;
+    }
+  
+    .certificatesPage__title {
+      font-size: 22px;
+    }
+  
+    .formImg__person {
+      display: none;
+    }
+  
+    .contactForm__wrapper {
+      background: #fff;
+      height: 100%;
+      padding: 37px 15px 0 15px;
+    }
+  
+    .requisites__wrapper {
+      display: none;
+    }
+  
+    .contact__map_img {
+      width: 100%;
+    }
+  
+    .reviewsCard__items {
+      grid-template-columns: 1fr;
+    }
+  
+    .reviews__formWrapper-desctope {
+      display: none;
+    }
+  
+    .reviews__formWrapper-mobile .form__reviews {
+      margin-top: 3px;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+    .reviews__formWrapper-mobile .form__reviews .form__inp {
+      margin-top: 27px;
+    }
+  
+    .certificates__wrapper {
+      padding: 20px 10px 30px 10px;
+    }
+  
+    .error404__wrapper img {
+      width: 410px;
+    }
+  
+    .typicalPage__tableWrap {
+      display: none;
+    }
+  
+    .typicalPage__tableWrap-mobile {
+      padding: 0 7px;
+    }
+    .typicalPage__tableWrap-mobile .typicalPage__tableWrap_els-mobile {
+      margin-bottom: 30px;
+    }
+    .typicalPage__tableWrap-mobile .typicalPage__tableWrap_els-mobile.tableWrap_els-mobile-bg {
+      background-color: #F6F6F6;
+    }
+    .typicalPage__tableWrap-mobile .typicalPage__table-subTitle {
+      border: 1px solid #d7dade;
+    }
+    .typicalPage__tableWrap-mobile .typicalPage__text {
+      margin-bottom: 0;
+      text-align: center;
+    }
+    .typicalPage__tableWrap-mobile .typicalPage__table_bodyContent {
+      padding: 7px 11px;
+    }
+    .typicalPage__tableWrap-mobile .typicalPage__table_bodyContent-paramsTwoWrap {
+      border-bottom: 1px solid #d7dade;
+      border-left: 1px solid #d7dade;
+    }
+  
+    .typicalPage__primLine {
+      top: 11px;
+      left: 0;
+    }
+  
+    .pageTour__slogan {
+      width: 100%;
+    }
+  
+    .container__pageTour_slogan {
+      position: inherit;
+      left: 0;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      padding-bottom: 31px;
+    }
+  
+    .pageTour__slogan_items {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      left: 0;
+      position: inherit;
+    }
+    .pageTour__slogan_items .slogan__item {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+    .pageTour__slogan_items .slogan__item:last-child {
+      margin-right: 0;
+    }
+    .pageTour__slogan_items .slogan__item_line {
+      width: 91px;
+      height: 0px;
+      margin: 15px 0;
+    }
+  
+    .pageTour__slogan .pageTour__slogan_text {
+      font-size: 18px;
+    }
+  
+    .dopInfoPrice__cards {
+      grid-gap: 10px;
+      grid-template-columns: 1fr;
+    }
+  
+    .dopInfoPrice__card.card01 {
+      grid-column-start: 1;
+      grid-column-end: 3;
+      grid-row-start: 3;
+      grid-row-end: 4;
+    }
+    .dopInfoPrice__card.card02 {
+      grid-column-start: 1;
+      grid-column-end: 3;
+      grid-row-start: 4;
+      grid-row-end: 4;
+    }
+  
+    .cardInfo__items {
+      grid-gap: 10px;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+    .cardInfo__items .cardInfo__item {
+      -webkit-box-flex: 1;
+      -webkit-flex: auto;
+      -ms-flex: auto;
+      flex: auto;
+    }
+    .cardInfo__items .cardInfo__item:last-child {
+      -webkit-box-flex: 1;
+      -webkit-flex-grow: 1;
+      -ms-flex-positive: 1;
+      flex-grow: 1;
+      -webkit-flex-basis: 100%;
+      -ms-flex-preferred-size: 100%;
+      flex-basis: 100%;
+    }
+  
+    .benefitsCard__text {
+      max-width: 100%;
+    }
+  
+    .benefitsCard__imgWrap {
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+    .benefitsCard__imgWrap .benefitsCard__img_item {
+      -webkit-box-flex: inherit;
+      -webkit-flex: inherit;
+      -ms-flex: inherit;
+      flex: inherit;
+      margin: 10px;
+    }
+    .benefitsCard__imgWrap .benefitsCard__img_item:last-child {
+      display: none;
+    }
+  
+    .pageTour__cardNameTour_wrapper-desctop {
+      display: none;
+    }
+  
+    .pageTour__cardNameTour_wrapper-mobile {
+      margin-top: 345px;
+    }
+  
+    .pageTour__dayExcursion {
+      margin-top: 60px;
+    }
+  
+    .pageTour__likeBlock {
+      width: 46px;
+      height: 46px;
+    }
+  
+    .pageTour__imgMain-wrapper .breadcrumbList__wrapper {
+      padding-top: 20px;
+    }
+  
+    .pageTour__rightInfo_wrapper {
+      margin-top: 34px;
+    }
+  
+    .pageTour__formTour_wrapper {
+      margin: 0;
+    }
+  
+    .pageTour__rightInfo_wrapper-desctope {
+      display: none;
+    }
+  
+    .pageTour__rightInfo_wrapper-mobile .pageTour__cardDontTour_wrapper {
+      margin-top: 36px;
+    }
+  
+    .pageTour__rightInfo_wrapper {
+      max-width: 100%;
+    }
+  
+    .cardNameTour__img img {
+      width: 99%;
+    }
+  
+    .pageTour__orderTour_block {
+      height: 387px;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+      max-width: 300px;
+      bottom: -305px;
+    }
+  
+    .orderTour__block_items {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .orderTour__nextTour_block {
+      top: -57px;
+      left: 35px;
+      width: 238px;
+      height: 134px;
+    }
+  
+    .orderTour__item svg {
+      width: 30px;
+      height: 30px;
+    }
+    .orderTour__item .orderTour__item_line {
+      display: none;
+    }
+  
+    .orederTour__line-mb {
+      border: 1px solid rgba(215, 218, 222, 0.6);
+      width: 70px;
+      margin: 10px 0;
+    }
+  
+    .orderTour__block_btn {
+      margin-top: 30px;
+    }
+  
+    .orderTour__text {
+      font-size: 16px;
+    }
+  
+    .favoriteExcursion__card .excursions__card_img {
+      width: 100%;
+    }
+  
+    .favoriteExcursion__card .excursionsCard__img_icons {
+      width: 100%;
+    }
+  
+    .pageTour__dayExcursiond-wrapper {
+      margin-top: 0px;
+    }
+  
+    .pageTour__rightInfo_wrapper {
+      min-width: 100%;
+    }
+  
+    .iconSocial__element_link {
+      margin: 0 15px;
+    }
+  
+    .aboutCompany__cardEls {
+      grid-gap: 20px;
+    }
+  
+    .aboutCompany__cardEl_text {
+      font-size: 18px;
+    }
+  
+    .groupTour__wrapper {
+      margin-bottom: 60px;
+    }
+  
+    .groupTour__achievementEl p {
+      font-size: 16px;
+    }
+  
+    .breadcrumbList__wrapper {
+      margin-top: 20px;
+    }
+  
+    .habitationIconHotels__els {
+      margin-top: 40px;
+    }
+  
+    .habitationTour__wrapper {
+      margin-bottom: 40px;
+    }
+  
+    .personDataAccount__title {
+      margin-bottom: 33px;
+    }
+  
+    .personDataAccount__btnWrapper {
+      margin-top: 20px;
+    }
+  
+    .benefitsCard__title {
+      text-align: left;
+    }
+  
+    .modal__form_checkbox {
+      width: 17px;
+      height: 17px;
+    }
+  
+    .modal-call__wrapper {
+      background-color: #fff;
+    }
+    .modal-call__wrapper.modal__wrapper {
+      height: 470px;
+      left: 48%;
+    }
+  
+    .close__iconModal_wrap.js-close__iconModal svg {
+      width: 20px;
+      height: 20px;
+    }
+  }
+  @media screen and (min-width: 580px) {
+    .whatSay__title br {
+      display: none;
+    }
+  
+    .whatSay__el_link-mobile {
+      display: none;
+    }
+  
+    .reviews__formWrapper-mobile {
+      display: none;
+    }
+  
+    .typicalPage__tableWrap-mobile {
+      display: none;
+    }
+  
+    .pageTour__cardNameTour_wrapper-mobile {
+      display: none;
+    }
+  
+    .pageTour__rightInfo_wrapper-mobile {
+      display: none;
+    }
+  
+    .habitationTour__title br {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 425px) {
+    p {
+      font-size: 14px;
+    }
+  
+    .logo__link_icon.logo__link_icon-mb svg {
+      width: 104px;
+      height: 21px;
+    }
+  
+    .headerBg .headerBG__img {
+      height: 100vh;
+    }
+  
+    .headerBg__wrapper .slick-dots {
+      bottom: 0;
+      top: 580px;
+      right: 0;
+      left: 40%;
+      margin-right: -40%;
+      -webkit-transform: translate(-40%, 0%);
+      -ms-transform: translate(-40%, 0%);
+      transform: translate(-40%, 0%);
+    }
+  
+    .title__main {
+      font-size: 48px;
+    }
+  
+    .header__slider__wrapper.slick-initialized.slick-slider {
+      bottom: -265px;
+    }
+  
+    .header__slider {
+      top: -347px;
+    }
+  
+    .popular__excursions_cards {
+      display: block;
+    }
+  
+    .popular__excursions_card {
+      margin: 3px 2px;
+    }
+  
+    .excursions__card_title {
+      font-size: 12px;
+      margin: 0;
+      padding: 10px 0 5px 0;
+    }
+  
+    .excursionsCard__place_text {
+      font-size: 9px;
+    }
+  
+    .popular__excursions_cards {
+      margin-left: 0px;
+      left: 0px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 10px 5px;
+    }
+  
+    .excursionsCard__place_items {
+      padding-bottom: 5px;
+    }
+  
+    .excursionsCard__advantages_item-left {
+      padding-left: 3px;
+    }
+  
+    .excursionsCard__advantages_item-right {
+      padding-right: 3px;
+    }
+  
+    .excursions__card_img {
+      width: 100%;
+    }
+  
+    .excursionsCard__advantages_item-left {
+      font-size: 8px;
+      margin: 0;
+    }
+  
+    .excursionsCard__advantages_item-right {
+      font-size: 8px;
+      margin: 0;
+    }
+  
+    .excursionsCard__img_icons {
+      width: 185px;
+    }
+  
+    .excursionsCard__img_icons-rating svg {
+      width: 16px;
+      height: 16px;
+    }
+  
+    .excursionsCard__place_icon svg {
+      width: 15px;
+      height: 15px;
+    }
+  
+    .exursionsCard__img_icons-like svg {
+      width: 20px;
+      height: 20px;
+    }
+  
+    .whatSay__title {
+      line-height: 28px;
+    }
+  
+    .certificates {
+      margin-bottom: 160px;
+    }
+  
+    .excursionsWithUs__title {
+      line-height: 28px;
+    }
+  
+    .excursionsWithUs__img-mobile {
+      max-width: 320px;
+    }
+  
+    .footer__wrapper {
+      -webkit-box-align: start;
+      -webkit-align-items: flex-start;
+      -ms-flex-align: start;
+      align-items: flex-start;
+    }
+  
+    .footer__img {
+      padding-left: 40px;
+      padding-right: 0px;
+    }
+  
+    .footer__btn_wrapper {
+      margin-left: 80px;
+    }
+  
+    .footer__link_wrapper {
+      margin-top: 0;
+      grid-template-columns: 1fr;
+    }
+  
+    .footer__link_item {
+      margin-top: 40px;
+    }
+  
+    .img-wrapper-mobile img {
+      width: 100%;
+    }
+  
+    .headings {
+      font-size: 24px;
+      line-height: 28px;
+    }
+  
+    .aboutCompany__cardEls {
+      grid-template-columns: 2fr;
+    }
+  
+    .aboutCompany__wrapper {
+      margin-top: 50px;
+      margin-bottom: 60px;
+    }
+  
+    .groupTour__achievementEls {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .groupTour__achievementEl {
+      margin-top: 15px;
+    }
+  
+    .habitationIconHotels__els {
+      -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+  
+    .modal__form {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .input__modal_wrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+    .input__modal_wrapper .modal__input {
+      width: 282px;
+    }
+  
+    .form-icon-calendar.form-icon-calendar::before {
+      right: 80px;
+      top: 76px;
+    }
+  
+    .form__label {
+      line-height: 22px;
+      margin-bottom: 10px;
+    }
+  
+    .personDataAccount__formWrapper {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+    .personDataAccount__formWrapper .personDataAccoint__input-pass {
+      margin-top: 10px;
+    }
+  
+    .passWrapper__title {
+      padding: 0 7px;
+    }
+  
+    .personArea__card-image {
+      padding: 15px;
+    }
+    .personArea__card-image svg {
+      width: 40px;
+      height: 40px;
+    }
+  
+    .personArea__card-title {
+      font-size: 12px;
+    }
+  
+    .personArea__card-text {
+      font-size: 11px;
+    }
+  
+    .typicalPage__primLine {
+      height: 80%;
+    }
+  
+    .typicalPage__primText {
+      padding-left: 35px;
+    }
+  
+    .typicalPage__subTitle {
+      font-size: 18px;
+    }
+  
+    .typicalPage__autorWrap {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -ms-flex-align: center;
+      align-items: center;
+    }
+  
+    .typicalPage__textBold {
+      font-size: 16px;
+    }
+  
+    .personArea__card {
+      height: 185px;
+      padding: 13px 9px;
+    }
+  
+    .personArea__card-title {
+      text-align: center;
+    }
+  
+    .personArea__card-text {
+      text-align: center;
+    }
+  
+    .booking__card .excursions__card_img {
+      width: 100%;
+    }
+  
+    .booking__card .excursionsCard__img_icons {
+      width: 180px;
+    }
+  
+    .tourBron .popular__excursions_cards {
+      left: 0;
+    }
+  
+    .contact__elements {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+  
+    .sloganWrapper-desctop {
+      display: none;
+    }
+  
+    .error404__wrapper img {
+      width: 280px;
+    }
+  
+    .error404__title {
+      font-size: 22px;
+    }
+  
+    .error404__text {
+      font-size: 16px;
+    }
+  
+    .pageTour__benefitsCard__wrapper {
+      padding: 30px 10px 63px 10px;
+    }
+  
+    .cardDontTour__upInfoBlock {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+    }
+    .cardDontTour__upInfoBlock .cardDontTour__upInfoBlock_els {
+      text-align: center;
+    }
+  
+    .upInfoBlock__tel {
+      padding-left: 0;
+      margin-bottom: 20px;
+    }
+  
+    .cardDontTour__upInfoBlock_numInfo {
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+      -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      padding-bottom: 15px;
+    }
+    .cardDontTour__upInfoBlock_numInfo .upInfoBlock__btn_wrapper {
+      padding-right: 0;
+    }
+  
+    .header__slider__wrapper.slick-initialized .slick-slide {
+      margin: 3px 5px;
+      width: 245px;
+    }
+  
+    .certificates__items {
+      left: 0;
+    }
+  
+    .header__slider {
+      left: -153px;
+    }
+  
+    .modal-registration__wrapper {
+      width: 96%;
+      -webkit-transform: translate(0%, 4%);
+      -ms-transform: translate(0%, 4%);
+      transform: translate(0%, 4%);
+    }
+  
+    .whatSay__slider_wrapper {
+      margin-top: 24px;
+    }
+  
+    .personArea__cards {
+      padding: 0 6px;
+    }
+  
+    .personArea__title {
+      margin-bottom: 34px;
+    }
+  
+    .form-icon-calendar .ui-datepicker-trigger {
+      top: 78px;
+      right: 70px;
+    }
+  
+    .modal__wrapper {
+      width: 364px;
+    }
+  
+    .modal-registration .ui-datepicker-trigger {
+      right: 20px;
+    }
+  
+    .modal__title-call {
+      font-size: 18px;
+      color: #68717C;
+    }
+  
+    .modal__subTitle_call {
+      font-size: 14px;
+      text-align: center;
+    }
+  }
+  @media screen and (min-width: 426px) {
+    .sloganWrapper-mobile {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 375px) {
+    .excursionsCard__img_icons {
+      width: 47%;
+    }
+  
+    .excursions__card_img {
+      width: 100%;
+    }
+  
+    .excursionsCard__img_icons-rating svg {
+      width: 9px;
+      height: 9px;
+    }
+  
+    .exursionsCard__img_icons-like svg {
+      width: 12px;
+      height: 12px;
+    }
+  
+    .excursionsCard__place_icon svg {
+      width: 12px;
+      height: 12px;
+    }
+  
+    .excursions__card_title {
+      font-size: 9px;
+      margin: 0;
+      padding: 10px 0 5px 0;
+    }
+  
+    .excursionsCard__block_left svg {
+      width: 8px;
+      height: 8px;
+    }
+  
+    .excursionsCard__block_right svg {
+      width: 11px;
+      height: 11px;
+    }
+  
+    .booking__card .excursions__card_img {
+      width: 100%;
+    }
+  
+    .booking__card .excursionsCard__img_icons {
+      width: 140px;
+    }
+  
+    .excursionsCard__img_icons {
+      margin-top: 0;
+    }
+  
+    .excursionsCard__img_icons .excursionsCard__img_icons-rating {
+      margin: 5px;
+    }
+  
+    .excursionsCard__img_icons .exursionsCard__img_icons-like {
+      margin: 5px;
+    }
+  
+    .booking__wrapper .booking__card {
+      margin: 3px 2px;
+    }
+  
+    .individualTour .popular__excursions_cards {
+      left: 0;
+    }
+  
+    .contact__map_img {
+      width: 317px;
+    }
+  
+    .contact__map {
+      height: 100%;
+    }
+  
+    .sloganWrapper-mobile .slogan__text {
+      padding-left: 39px;
+      padding-right: 40px;
+    }
+  
+    .sloganWrapper-mobile {
+      margin-top: 50px;
+    }
+  
+    .cardInfo__item {
+      padding: 12px 30px 12px 21px;
+    }
+  
+    .pageTour__formTour_wrapper {
+      padding: 30px 0px 51px 0px;
+      max-width: 100%;
+    }
+    .pageTour__formTour_wrapper .form__inp {
+      width: 250px;
+    }
+    .pageTour__formTour_wrapper .formTour__btn {
+      width: 260px;
+    }
+  
+    .pageTour__cardDontTour_wrapper {
+      max-width: 100%;
+    }
+  
+    .certificates__items {
+      left: 2px;
+    }
+  
+    .header__slider__wrapper.slick-initialized.slick-slider {
+      left: 152px;
+    }
+  
+    .pageTour__rightInfo_wrapper {
+      min-width: 250px;
+    }
+  
+    .favoriteExcursion__card .excursions__card_img {
+      width: 100%;
+    }
+  
+    .favoriteExcursion__card .excursionsCard__img_icons {
+      width: 140px;
+    }
+  
+    .form-icon-calendar.form-icon-calendar::before {
+      top: 78px;
+      right: 51px;
+    }
+  
+    .modal__wrapper {
+      width: 360px;
+      padding: 0 20px;
+    }
+  
+    .whatSay__card {
+      padding: 18px 0px 56px 5px;
+    }
+  
+    .personArea__card-text {
+      font-size: 8px;
+    }
+  
+    .personArea__card-title {
+      font-size: 9px;
+    }
+  
+    .personArea__card {
+      height: 144px;
+      padding: 13px 1px;
+    }
+  
+    .breadcrumbList__link {
+      font-size: 12px;
+    }
+  
+    .certificates {
+      margin-bottom: 85px;
+    }
+  
+    .headerBg__wrapper .slick-dots {
+      top: 600px;
+    }
+  
+    .dopInfoPrice__card {
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      -ms-flex-pack: center;
+      justify-content: center;
+    }
+  
+    .dopInfoPrice__text {
+      font-size: 12px;
+    }
+  
+    .dopInfoPrice__card_name {
+      padding: 0 5px;
+    }
+  
+    .modal__subTitle_call {
+      max-width: 236px;
+    }
+    .modal__subTitle_call br {
+      display: none;
+    }
+  
+    .modal__input.modal__input_call {
+      width: 249px;
+    }
+  
+    .modal__btn.modal__btn-call {
+      width: 267px;
+    }
+  
+    .modal__checkbox_wrap-call {
+      margin-right: 0;
+    }
+  
+    .modal__form_checkbox {
+      margin-right: 8px;
+    }
+  
+    .formPages__form .custom-radio [type=radio]:checked + .custom-radio__label, .formPages__form .custom-radio [type=radio]:not(:checked) + .custom-radio__label {
+      padding: 0px 0 0px 27px;
+    }
+  
+    .close__iconModal_wrap-call {
+      top: 35px;
+      right: 35px;
+    }
+  
+    .modal__form_checkbox.modal__form_checkbox-call {
+      width: 15px;
+      height: 15px;
+    }
+  }
+  @media screen and (max-width: 321px) {
+    p {
+      font-size: 14px;
+    }
+  
+    .agent__link_item {
+      font-size: 11px;
+    }
+  
+    .iconSocial__element_link-mb svg {
+      width: 20px;
+      height: 20px;
+    }
+  
+    .excursionsWithUs__img-mobile {
+      max-width: 300px;
+    }
+  
+    .header__slider {
+      left: -150px;
+    }
+  
+    .header__slider_card {
+      padding: 10px 0px 15px 15px;
+    }
+  
+    .header__slider_icon svg {
+      width: 42px;
+      height: 42px;
+    }
+  
+    .header__slider_title {
+      font-size: 14px;
+    }
+  
+    .header__slider_text {
+      font-size: 12px;
+    }
+  
+    .popular__excursions_title {
+      font-size: 24px;
+    }
+  
+    .whatSay__right_text {
+      margin-top: 9px;
+    }
+  
+    .footer__img {
+      padding-left: 25px;
+    }
+  
+    .footer__btn_wrapper {
+      margin-left: 52px;
+    }
+  
+    .footer__agreement_text {
+      font-size: 12px;
+    }
+  
+    .img-wrapper-mobile img {
+      width: 280px;
+    }
+  
+    .form-icon-calendar.form-icon-calendar::before {
+      right: 30px;
+      top: 80px;
+    }
+  
+    .personArea__card-image svg {
+      width: 31px;
+      height: 31px;
+    }
+  
+    .modal__wrapper {
+      padding: 0;
+    }
+  
+    .close__iconModal_wrap {
+      top: 13px;
+      right: 15px;
+    }
+  
+    .modal__wrapper {
+      width: 310px;
+    }
+  
+    .close__iconModal_wrap-call {
+      top: 32px;
+    }
+  
+    .modal__form {
+      margin-left: 21px;
+    }
+  
+    .call__btn_wrap {
+      margin-left: 21px;
+    }
+  }
